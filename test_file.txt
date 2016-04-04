@@ -1,3 +1,4 @@
 Sample text in my text file.
 A second line.
 A third line.
+A fourth Line.
