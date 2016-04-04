@@ -1,1 +1,2 @@
 Sample text in my text file.
+A second line.
